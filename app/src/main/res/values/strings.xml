@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Android108Bomb</string>
+    <string name="bombGame">爆弾ゲーム</string>
+    <string name="btn1Str">1</string>
+    <string name="btn2Str">2</string>
+    <string name="btn3Str">3</string>
+    <string name="btn4Str">4</string>
+    <string name="btn5Str">5</string>
+    <string name="btn6Str">6</string>
+    <string name="btn7Str">7</string>
+    <string name="btn8Str">8</string>
+    <string name="btn9Str">9</string>
+    <string name="pleasePush">どれか押してみよう！</string>
+    <string name="btnRst">リセット</string>
+    <string name="btn10Str">10</string>
+    <string name="btn11Str">11</string>
+    <string name="btn12Str">12</string>
+    <string name="btn13Str">13</string>
+    <string name="btn14Str">14</string>
+    <string name="btn15Str">15</string>
+    <string name="btn16Str">16</string>
+</resources>
